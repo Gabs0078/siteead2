@@ -1,6 +1,6 @@
 @echo off
 
-cd /d "C:\Users\Gabe\Desktop\BIGTHEWINNERSITE2"
+cd /d "Seu Diretório dos Arquivos"
 REM Navega até o diretório do projeto.
 
 start http://localhost:8000
